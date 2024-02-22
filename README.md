@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Barış Mehmed</h1>
+<h1 align="center">Hi, I'm Barış Mehmed</h1>
 <h3 align="center">A passionate full-stack developer from Bulgaria</h3>
 
 - 🌱 I’m currently learning **to create end products with a variety of technologies such as React, Spring Framework, Redux, etc.**
 
-- 📫 How to reach me **barishm@outlook.com**
+- 📫 **barishm@outlook.com**
 
 - 🎯 My goal **is to expand my tech skills to become a highly valuable developer, adept at finding innovative solutions throughout the software development process.**
 
