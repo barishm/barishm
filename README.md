@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Barış Mehmed</h1>
 <h3 align="center">A passionate full-stack developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **to create end products with a variety of technologies such as Spring boot, MySQL, React,js etc.**
+- 🌱 I’m currently learning **to create end products with a variety of technologies such as Spring boot, MySQL, React.js, AWS etc.**
 
 - 📫 **barishm@outlook.com**
 
