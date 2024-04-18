@@ -5,7 +5,7 @@
 Currently, I'm diving into various technologies for software development, covering both frontend and backend, as well as DevOps. While I'm especially interested in backend work with Java, including Spring Boot and MySQL, I'm also exploring frontend tools like React.js and cloud platforms such as AWS. My goal is to become a skilled developer capable of delivering creative solutions across all stages of software development.
 </p>
 
-- 📫 **barishm@outlook.com**
+📫 **barishm@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
