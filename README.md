@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Barış Mehmed</h1>
 <h3 align="center">A passionate full-stack developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **to create end products with a variety of technologies such as Spring boot, MySQL, React.js, AWS etc.**
+<p>
+Currently, I'm diving into various technologies for software development, covering both frontend and backend, as well as DevOps. While I'm especially interested in backend work with Java, including Spring Boot and MySQL, I'm also exploring frontend tools like React.js and cloud platforms such as AWS. My goal is to become a skilled developer capable of delivering creative solutions across all stages of software development.
+</p>
 
 - 📫 **barishm@outlook.com**
-
-- 🎯 My goal **is to expand my tech skills to become a highly valuable developer, adept at finding innovative solutions throughout the software development process.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
